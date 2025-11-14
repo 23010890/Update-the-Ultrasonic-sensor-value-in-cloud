@@ -2,7 +2,7 @@
 # REG NO:212223110010
 
 
-# Update-the-Ultrasonic-sensor-value-in-Things Mate
+# Update the  Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
